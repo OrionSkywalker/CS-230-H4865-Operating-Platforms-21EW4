@@ -15,20 +15,20 @@
 
 ## What did you do particularly well in developing this documentation?
 
-### I think I did a good job in identifying a framework that could be a good solution to the problem of having to develop for different platforms in one place, React native.
+### + I think I did a good job in identifying a framework that could be a good solution to the problem of having to develop for different platforms in one place, React native.
 
 ## What about the process of working through a design document did you find helpful when developing the code?
 
-### I think having documentation that outlined the development from a macro level helps to govern micro decisions. 
+### + I think having documentation that outlined the development from a macro level helps to govern micro decisions. 
 
 ## If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
-### I think a better description of storage management techniques could help.
+### + I think a better description of storage management techniques could help.
 
 ## How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-### I used the client requests to make design decisions. Had the request been for a specific platform the development considerations would change, because the client requested a multiplatform design the design changes.
+### + I used the client requests to make design decisions. Had the request been for a specific platform the development considerations would change, because the client requested a multiplatform design the design changes.
 
 ## How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-### I think it is very important to understand physical resource requirements on the client and server side and design in a way that will work for the paricular use case.
+### + I think it is very important to understand physical resource requirements on the client and server side and design in a way that will work for the paricular use case.
