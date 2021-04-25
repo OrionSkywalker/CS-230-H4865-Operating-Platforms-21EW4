@@ -31,4 +31,4 @@
 
 ## How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
-###I think it is very important to understand physical resource requirements on the client and server side and design in a way that will work for the paricular use case.
+### I think it is very important to understand physical resource requirements on the client and server side and design in a way that will work for the paricular use case.
